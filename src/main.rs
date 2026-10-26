@@ -2,7 +2,7 @@ fn main() {
     println!("=======================================================");
     println!("[SOLANA WEB4] [MAX PLANCK] ($PLANCK)");
     println!("[FIELD] Theoretical Physics");
-    println!("[ROLE] Originator of quantum theory; Planck's constant ($h$), blackbody radiation formula ($E=h\nu$)");
+    println!("[ROLE] Originator of quantum theory; Planck's constant ($h$), blackbody radiation formula ($E=hnu$)");
     println!("[CHAIN] Solana Sealevel Virtual Machine (SVM)");
     println!("[PQC] NIST FIPS 203 (ML-KEM-768) & FIPS 204 (ML-DSA-65) Active");
     println!("=======================================================");
